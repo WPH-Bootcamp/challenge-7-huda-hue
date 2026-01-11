@@ -1,7 +1,9 @@
-import React from "react";
-
 const Hero = () => {
-  return <div>Hero</div>;
+  return (
+    <section className="pt-10">
+      <p>alksdf</p>
+    </section>
+  );
 };
 
 export default Hero;
